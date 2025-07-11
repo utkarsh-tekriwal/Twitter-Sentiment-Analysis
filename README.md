@@ -121,12 +121,4 @@ Twitter-Sentiment-Analysis/
 
 ## 📜 License
 
-This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
-
----
-
-## 👋 Connect with Me
-
-📧 Email: your.email@example.com  
-🔗 LinkedIn: [linkedin.com/in/utkarsh](https://linkedin.com/in/utkarsh)  
-🌐 Portfolio: [your-portfolio-link.com](#)
+This project is licensed under the **MIT License**.

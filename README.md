@@ -64,7 +64,7 @@ Turn raw Twitter data into real‑time sentiment insights. This project demonstr
 
 ## 🖼️ App Preview
 
-![Gradio App Preview](assets/app_screenshot.png)
+![Gradio App Preview](assets/Screenshot_2.png)
 
 ---
 

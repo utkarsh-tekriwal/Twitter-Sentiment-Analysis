@@ -1,0 +1,5 @@
+transformers
+gradio
+scipy
+pandas
+matplotlib

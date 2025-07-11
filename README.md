@@ -19,4 +19,4 @@ Upload a CSV file with a column named `TweetText`.
 - JSON Stats
 - Final Predicted Sentiment with Confidence
 
-![Screenshot](assets/screenshot_2.png)
+![Screenshot](assets/Screenshot_2.png)
